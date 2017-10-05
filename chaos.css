@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 21px;
+    opacity: 0.999;
+}
+.ball{
+    height: 150px;
+    width:150px;
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+.one{
+    background: #39d;
+    top:50%;
+    left:0;
+}
+.two{
+    background: #CC3A3A;
+    top:20%;
+    right:0;
+}
+.three{
+    background: #3ACC6B;
+    top:80%;
+    left:0;  
+}
+.four{
+    background: #CC883A;
+    top:60%;
+    right:0;  
+}
+.five{
+    background: #3ACCCC;
+    top:100%;
+    left:0; 
+}
+.six{
+    background: #3A3CCC;
+    top:40%;
+    left:0; 
+}
+.seven{
+    background: #4C4B48;
+    top:50%;
+    left:0;
+}
+.eight{
+    background: #CA9A0B;
+    top:10%;
+    right:0;
+}
+.nine{
+    background: #E94288;
+    top:90%;
+    right:0;
+}
+.ten{
+    background: #2E2828;
+    top:70%;
+    right:0;
+}
