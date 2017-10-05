@@ -34,6 +34,7 @@ $(document).ready(function() {
     Animator("7",2700);
     Animator("8",3200);
     Animator("9",4100);
+    Animator("10",2900);
 });
 
   
